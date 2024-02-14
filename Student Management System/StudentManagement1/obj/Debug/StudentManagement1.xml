@@ -1,0 +1,126 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StudentManagement1
+</name>
+</assembly>
+<members>
+<member name="T:StudentManagement1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._129_1290969_teacher_icon_teaching_icon_png_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._1511380_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._1658694_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._1864903_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._1925343_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._228_2280412_office_building_clip_art_university_flat_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._290_2908659_login_icon_png_free_user_access_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._337_3378445_eligibility_login_icon_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._5040011_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources._51_514952_user_login_icon_by_aha_soft_user_login_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.black_close_icon_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.calcel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.cross">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.cross1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.department_icon_468634">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.png_transparent_black_human_form_showing_black_window_illustration_computer_icons_classroom_faculty_teacher_icon_free_classes_s_miscellaneous_angle_text">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.png_transparent_st_lawrence_college_ontario_st_lawrence_college_kingston_queen_s_university_brockville_school_thumbnail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.png_transparent_teacher_education_classroom_computer_icons_teacher_class_text_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:StudentManagement1.My.Resources.Resources.rsc_seal_russell_sage_college_logo_11563056960dwuxidm8qo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
